@@ -17,7 +17,7 @@ public class Health : MonoBehaviour
     private SpriteRenderer sprite;
     public float currentHealth { get; private set; }
     private Animator anim;
-    private bool dead;
+    public bool dead;
     private Scene m_Scene;
     private string sceneName;
 

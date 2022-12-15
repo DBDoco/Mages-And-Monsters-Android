@@ -10,6 +10,9 @@ scopes = {
 	"last_search.EAB0C2BA" = "buttons"
 	"OpenInspectorPreview.EAB0C2BA" = "0"
 	"currentGroup.EAB0C2BA" = "store"
+	"last_search.DE949528" = "acc"
+	"OpenInspectorPreview.DE949528" = "0"
+	"currentGroup.DE949528" = "all"
 }
 providers = {
 	adb = {
